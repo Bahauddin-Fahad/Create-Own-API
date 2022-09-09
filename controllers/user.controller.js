@@ -1,5 +1,4 @@
 let users = require("../public/users.json");
-let json = require("../public/json.json");
 
 module.exports.getAllUser = (req, res, next) => {
   const { limit } = req.query;

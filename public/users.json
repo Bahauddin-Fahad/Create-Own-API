@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "gender": "male",
+    "name": "Micheal",
+    "contact": "0123456789",
+    "address": "USA",
+    "photoURL": "https://photoURL1.jpg"
+  },
+  {
+    "id": 2,
+    "gender": "female",
+    "name": "Nirvana",
+    "contact": "123456789",
+    "address": "UK",
+    "photoURL": "https://photoURL2.jpg"
+  },
+  {
+    "id": 3,
+    "gender": "male",
+    "name": "Shredon",
+    "contact": "Canada",
+    "address": "23456789",
+    "photoURL": "https://photoURL3.jpg"
+  },
+  {
+    "id": 4,
+    "gender": "female",
+    "name": "Stephenie",
+    "contact": "3456789",
+    "address": "Spain",
+    "photoURL": "https://photoURL4.jpg"
+  },
+  {
+    "id": 5,
+    "gender": "male",
+    "name": "Shane",
+    "contact": "456789",
+    "address": "France",
+    "photoURL": "https://photoURL5.jpg"
+  }
+]
